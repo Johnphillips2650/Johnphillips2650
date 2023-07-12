@@ -2,12 +2,12 @@
 
 <h2>Technology Projects:</h2>
 <h4>Cyber Projects:</h4>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Vulnerability Management Lab](XXX)
-  - [File Integrity Monitor](XXX)
+   -  [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+   -  [Vulnerability Management Lab](XXX)
+   -  [File Integrity Monitor](XXX)
  
 <h4>Other Projects:</h4>
- - [Website For Client](XXX)
+  -  [Website For Client](XXX)
 <h2> Education:</h2>
 
  - BSc (Hons) Computing 

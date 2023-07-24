@@ -7,13 +7,13 @@
    
    - [Vulnerability Management Lab](XXX)
    
-   - [File Integrity Monitor](XXX)
- 
+   - [File Integrity Monitor](https://github.com/Johnphillips2650/File-Integrity-monitor-FIM-)
+
+   - [Keylogger](https://github.com/Johnphillips2650/Keylogger)
 <h4>Other Projects:</h4>
 
-  -  [Website For Client](XXX)
-  -  [Facial Recognition Project](XXX)
-  -  
+  -  [Website For Client](https://github.com/Johnphillips2650/Grocery-Website)
+  -  [Facial Recognition Project](https://github.com/Johnphillips2650/Facial-recognition)  
 
 <h2> Education:</h2>
 
@@ -22,15 +22,12 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][LinkedIn]
-
-[LinkedIn]: https://twitter.com/joshmadakor
+- [LinkedIn](https://www.linkedin.com/in/john-ray-phillips-783338258/)
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

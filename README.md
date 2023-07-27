@@ -3,7 +3,7 @@
 <h2>Technology Projects:</h2>
 <h4>Cyber Projects:</h4>
    
-   - [Active Directory Home Lab](XXX)
+   - [Active Directory Home Lab](XXX) (In progress)
    
    - [Vulnerability Management Lab](https://github.com/Johnphillips2650/Vulnerability-Management/tree/main)
    
@@ -18,8 +18,9 @@
 
 <h2> Education:</h2>
 
- - BSc (Hons) Computing 
-- Grade: Higher 2:1
+ - BSc (Hons) Computing Grade: Higher 2:1
+- A Levels averaging a C grade
+- GSCE ranging from A-C grade
 
 
 

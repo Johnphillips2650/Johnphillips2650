@@ -5,7 +5,7 @@
    
    - [Active Directory Home Lab](XXX)
    
-   - [Vulnerability Management Lab](XXX)
+   - [Vulnerability Management Lab](https://github.com/Johnphillips2650/Vulnerability-Management/tree/main)
    
    - [File Integrity Monitor](https://github.com/Johnphillips2650/File-Integrity-monitor-FIM-)
 
